@@ -11,7 +11,7 @@ I'm a AI Researcher, Tech Entrepreneur, and CS sudent at MIT.
 ### Honors and Awards
 
 - **Competitive Programming and Mathematics:** Top 50 in USA Computing Olympiad (Platinum). Top 100 in USA Junior Math Olympiad, 6-time AIME Qualifier (Top score: 11/15).
-- **International Science and Engineering Fair Finals Math Category Winner** | May 2021
+- **ISEF - International Science and Engineering Fair Finals Math Category Winner** | May 2021
   - 2021 Regeneron ISEF Grand Award, MATHEMATICS - Third Grand Award.
   - The American Mathematical Society, Certificate of Honorable Mention.
   - Air Force Research Laboratory on behalf of the United States Air Force, First Award.
