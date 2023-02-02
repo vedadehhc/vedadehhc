@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a AI Researcher, Tech Entrepreneur, and CS sudent at MIT. Check out my hackathon projects at 
+I'm a CS Researcher, Tech Entrepreneur, and EECS sudent at MIT. Check out my hackathon projects at 
 https://devpost.com/vedadehhc
 
 ### Skills
